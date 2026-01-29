@@ -1,4 +1,4 @@
-    <!-- Hero Section -->
+<!-- Hero Section -->
     <section class="home" id="home">
         <div class="container home-container">
             <div class="home-content">
@@ -10,15 +10,31 @@
                     Combino lógica robusta de backend con interfaces frontend modernas y ágiles.
                 </p>
                 <div class="home-buttons">
-                    <a href="#contact" class="btn btn-primary">Contáctame <i
-                            class="fa-regular fa-paper-plane"></i></a>
-                    <a href="#projects" class="btn btn-outline">Ver Proyectos</a>
+                    <a href="#contact" class="btn btn-primary">
+                        Contáctame <i class="fa-regular fa-paper-plane"></i>
+                    </a>
+                    <a href="#projects" class="btn btn-outline">
+                        Ver Proyectos
+                    </a>
+                </div>
+                
+                <!-- Social Links -->
+                <div class="home-social">
+                    <a href="https://github.com/jdanigh03" target="_blank" class="home-social-icon" title="GitHub">
+                        <i class="fa-brands fa-github"></i>
+                    </a>
+                    <a href="https://linkedin.com/in/jdanigh" target="_blank" class="home-social-icon" title="LinkedIn">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </a>
+                    <a href="mailto:danielguevarahoyos03@gmail.com" class="home-social-icon" title="Email">
+                        <i class="fa-regular fa-envelope"></i>
+                    </a>
                 </div>
             </div>
 
             <div class="home-img-wrapper">
                 <div class="blob-bg"></div>
-                <img src="assets/img/images.jpg" alt="Daniel Guevara - Desarrollador Web" class="home-img">
+                <img src="assets/img/images.jpg" alt="Daniel Guevara - Desarrollador Full Stack" class="home-img">
             </div>
         </div>
     </section>

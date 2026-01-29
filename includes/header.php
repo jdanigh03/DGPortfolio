@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Danil | Desarrollador Full Stack</title>
+    <title>Daniel | Desarrollador Full Stack</title>
     <meta name="description"
         content="Portafolio de desarrollo web Full Stack especializado en soluciones modernas y escalables.">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -17,7 +17,7 @@
     <!-- Header -->
     <header class="header" id="header">
         <div class="container nav-container">
-            <a href="#" class="logo">Dev<span class="highlight">Portfolio</span>.</a>
+            <a href="#" class="logo">DG<span class="highlight">Portfolio</span>.</a>
 
             <nav class="nav-menu" id="nav-menu">
                 <ul class="nav-list">

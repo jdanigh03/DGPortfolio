@@ -26,7 +26,7 @@
                     <a href="https://linkedin.com/in/jdanigh" target="_blank" class="home-social-icon" title="LinkedIn">
                         <i class="fa-brands fa-linkedin"></i>
                     </a>
-                    <a href="mailto:danielguevarahoyos03@gmail.com" class="home-social-icon" title="Email">
+                    <a href="mailto:seriousdanigh03@gmail.com" class="home-social-icon" title="Email">
                         <i class="fa-regular fa-envelope"></i>
                     </a>
                 </div>

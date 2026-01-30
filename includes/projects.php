@@ -24,11 +24,11 @@
                         </div>
 
                         <div class="project-buttons">
-                            <a href="#" class="project-button">
+                            <a href="https://github.com/YoungEngineersBolivia/YebSis" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
-                            <a href="#" class="project-button">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Demo
+                            <a href="https://youngengineersbolivia.cloud/" class="project-button" target="_blank" rel="noopener noreferrer">
+                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Ver
                             </a>
                         </div>
                     </div>
@@ -53,11 +53,8 @@
                         </div>
 
                         <div class="project-buttons">
-                            <a href="#" class="project-button">
+                            <a href="https://github.com/Dante1128/SIS-2025" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
-                            </a>
-                            <a href="#" class="project-button">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Demo
                             </a>
                         </div>
                     </div>
@@ -83,7 +80,7 @@
                         </div>
 
                         <div class="project-buttons">
-                            <a href="#" class="project-button">
+                            <a href="https://github.com/jdanigh03/VitalRecorder-App" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
                             <a href="#" class="project-button">
@@ -113,7 +110,7 @@
                         </div>
 
                         <div class="project-buttons">
-                            <a href="#" class="project-button">
+                            <a href="https://github.com/jdanigh03/BarberSmartWeb" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
                             <a href="#" class="project-button">
@@ -142,7 +139,7 @@
                         </div>
 
                         <div class="project-buttons">
-                            <a href="#" class="project-button">
+                            <a href="https://github.com/jdanigh03/PetAssist" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
                             <a href="#" class="project-button">
@@ -171,7 +168,7 @@
                         </div>
 
                         <div class="project-buttons">
-                            <a href="#" class="project-button">
+                            <a href="https://github.com/Ferchox/territoriof4-13" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
                             <a href="#" class="project-button">

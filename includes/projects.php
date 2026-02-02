@@ -1,6 +1,9 @@
 <!-- Projects Section -->
     <section class="projects section" id="projects">
-        <h2 class="section-title">Proyectos</h2>
+        <h2 class="section-title">
+            <span class="lang-es">Proyectos</span>
+            <span class="lang-en hidden">Projects</span>
+        </h2>
         <div class="container">
 
             <div class="projects-container grid">
@@ -13,8 +16,14 @@
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Sistema Académico y Administrativo</h3>
-                        <p class="project-desc">Sistema integral para gestión de estudiantes, personal e inventario con control de roles y permisos.</p>
+                        <h3 class="project-title">
+                            <span class="lang-es">Sistema Académico y Administrativo</span>
+                            <span class="lang-en hidden">Academic and Administrative System</span>
+                        </h3>
+                        <p class="project-desc">
+                            <span class="lang-es">Sistema integral para gestión de estudiantes, personal e inventario con control de roles y permisos.</span>
+                            <span class="lang-en hidden">Comprehensive system for student, staff, and inventory management with role and permission control.</span>
+                        </p>
                         
                         <div class="project-technologies">
                             <i class="fa-brands fa-laravel tech-icon" title="Laravel"></i>
@@ -28,7 +37,9 @@
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
                             <a href="https://youngengineersbolivia.cloud/" class="project-button" target="_blank" rel="noopener noreferrer">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Ver
+                                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                                <span class="lang-es">Ver</span>
+                                <span class="lang-en hidden">View</span>
                             </a>
                         </div>
                     </div>
@@ -43,8 +54,14 @@
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Sistema de Gestión Estudiantil EMI</h3>
-                        <p class="project-desc">Backend para gestión centralizada de estudiantes y programas académicos con optimización de queries.</p>
+                        <h3 class="project-title">
+                            <span class="lang-es">Sistema de Gestión Estudiantil EMI</span>
+                            <span class="lang-en hidden">EMI Student Management System</span>
+                        </h3>
+                        <p class="project-desc">
+                            <span class="lang-es">Backend para gestión centralizada de estudiantes y programas académicos con optimización de queries.</span>
+                            <span class="lang-en hidden">Backend for centralized student and academic program management with query optimization.</span>
+                        </p>
                         
                         <div class="project-technologies">
                             <i class="fa-brands fa-laravel tech-icon" title="Laravel"></i>
@@ -69,8 +86,14 @@
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">App de Recordatorios IoT</h3>
-                        <p class="project-desc">Backend con servicios en tiempo real para sincronización con pulseras inteligentes y gestión de alertas.</p>
+                        <h3 class="project-title">
+                            <span class="lang-es">App de Recordatorios IoT</span>
+                            <span class="lang-en hidden">IoT Reminder App</span>
+                        </h3>
+                        <p class="project-desc">
+                            <span class="lang-es">Backend con servicios en tiempo real para sincronización con pulseras inteligentes y gestión de alertas.</span>
+                            <span class="lang-en hidden">Backend with real-time services for synchronization with smart bracelets and alert management.</span>
+                        </p>
                         
                         <div class="project-technologies">
                             <i class="fa-solid fa-mobile-screen-button tech-icon" title="Flutter"></i>
@@ -84,7 +107,7 @@
                                 <i class="fa-brands fa-github"></i> Github
                             </a>
                             <a href="#" class="project-button">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Demo
+                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Download
                             </a>
                         </div>
                     </div>
@@ -100,7 +123,10 @@
                     </div>
                     <div class="project-content">
                         <h3 class="project-title">Street Barber App</h3>
-                        <p class="project-desc">Sistema de reservas con validación de horarios y pagos online para barbería móvil.</p>
+                        <p class="project-desc">
+                            <span class="lang-es">Sistema de reservas con validación de horarios y pagos online para barbería móvil.</span>
+                            <span class="lang-en hidden">Booking system with schedule validation and online payments for mobile barbershop.</span>
+                        </p>
                         
                         <div class="project-technologies">
                             <i class="fa-brands fa-react tech-icon" title="React Native"></i>
@@ -112,9 +138,6 @@
                         <div class="project-buttons">
                             <a href="https://github.com/jdanigh03/BarberSmartWeb" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
-                            </a>
-                            <a href="#" class="project-button">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Demo
                             </a>
                         </div>
                     </div>
@@ -129,8 +152,14 @@
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Sistema Veterinario GoCan</h3>
-                        <p class="project-desc">Gestión completa de clínica veterinaria con historiales médicos, citas e inventario de pet shop.</p>
+                        <h3 class="project-title">
+                            <span class="lang-es">Sistema Veterinario GoCan</span>
+                            <span class="lang-en hidden">GoCan Veterinary System</span>
+                        </h3>
+                        <p class="project-desc">
+                            <span class="lang-es">Gestión completa de clínica veterinaria con historiales médicos, citas e inventario de pet shop.</span>
+                            <span class="lang-en hidden">Complete veterinary clinic management with medical records, appointments, and pet shop inventory.</span>
+                        </p>
                         
                         <div class="project-technologies">
                             <i class="fa-brands fa-laravel tech-icon" title="Laravel"></i>
@@ -141,9 +170,6 @@
                         <div class="project-buttons">
                             <a href="https://github.com/jdanigh03/PetAssist" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
-                            </a>
-                            <a href="#" class="project-button">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Demo
                             </a>
                         </div>
                     </div>
@@ -158,8 +184,14 @@
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Gestión de Gimnasio</h3>
-                        <p class="project-desc">Sistema web para control de membresías, renovaciones y validación de estado de clientes.</p>
+                        <h3 class="project-title">
+                            <span class="lang-es">Gestión de Gimnasio</span>
+                            <span class="lang-en hidden">Gym Management</span>
+                        </h3>
+                        <p class="project-desc">
+                            <span class="lang-es">Sistema web para control de membresías, renovaciones y validación de estado de clientes.</span>
+                            <span class="lang-en hidden">Web system for membership control, renewals, and client status validation.</span>
+                        </p>
                         
                         <div class="project-technologies">
                             <i class="fa-brands fa-react tech-icon" title="React"></i>
@@ -170,9 +202,6 @@
                         <div class="project-buttons">
                             <a href="https://github.com/Ferchox/territoriof4-13" class="project-button" target="_blank" rel="noopener noreferrer">
                                 <i class="fa-brands fa-github"></i> Github
-                            </a>
-                            <a href="#" class="project-button">
-                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Demo
                             </a>
                         </div>
                     </div>

@@ -2,19 +2,28 @@
     <section class="home" id="home">
         <div class="container home-container">
             <div class="home-content">
-                <span class="home-subtitle">Hola, soy</span>
+                <span class="home-subtitle">
+                    <span class="lang-es">Hola, soy</span>
+                    <span class="lang-en hidden">Hi, I'm</span>
+                </span>
                 <h1 class="home-title">Daniel Guevara</h1>
-                <h3 class="home-education">Desarrollador Full Stack</h3>
+                <h3 class="home-education">
+                    <span class="lang-es">Desarrollador Full Stack</span>
+                    <span class="lang-en hidden">Full Stack Developer</span>
+                </h3>
                 <p class="home-description">
-                    Especializado en construir experiencias web excepcionales.
-                    Combino lógica robusta de backend con interfaces frontend modernas y ágiles.
+                    <span class="lang-es">Especializado en construir experiencias web excepcionales. Combino lógica robusta de backend con interfaces frontend modernas y ágiles.</span>
+                    <span class="lang-en hidden">Specialized in building exceptional web experiences. I combine robust backend logic with modern and agile frontend interfaces.</span>
                 </p>
                 <div class="home-buttons">
                     <a href="#contact" class="btn btn-primary">
-                        Contáctame <i class="fa-regular fa-paper-plane"></i>
+                        <span class="lang-es">Contáctame</span>
+                        <span class="lang-en hidden">Contact Me</span> 
+                        <i class="fa-regular fa-paper-plane"></i>
                     </a>
                     <a href="#projects" class="btn btn-outline">
-                        Ver Proyectos
+                        <span class="lang-es">Ver Proyectos</span>
+                        <span class="lang-en hidden">View Projects</span>
                     </a>
                 </div>
                 

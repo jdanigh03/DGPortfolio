@@ -21,18 +21,50 @@
 
             <nav class="nav-menu" id="nav-menu">
                 <ul class="nav-list">
-                    <li class="nav-item"><a href="#home" class="nav-link active-link">Inicio</a></li>
-                    <li class="nav-item"><a href="#about" class="nav-link">Sobre Mí</a></li>
-                    <li class="nav-item"><a href="#projects" class="nav-link">Proyectos</a></li>
-                    <li class="nav-item"><a href="#contact" class="nav-link">Contacto</a></li>
+                    <li class="nav-item">
+                        <a href="#home" class="nav-link active-link">
+                            <span class="lang-es">Inicio</span>
+                            <span class="lang-en hidden">Home</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link">
+                            <span class="lang-es">Sobre Mí</span>
+                            <span class="lang-en hidden">About Me</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#projects" class="nav-link">
+                            <span class="lang-es">Proyectos</span>
+                            <span class="lang-en hidden">Projects</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link">
+                            <span class="lang-es">Contacto</span>
+                            <span class="lang-en hidden">Contact</span>
+                        </a>
+                    </li>
                 </ul>
                 <div class="nav-close" id="nav-close">
                     <i class="fa-solid fa-xmark"></i>
                 </div>
             </nav>
 
-            <div class="nav-toggle" id="nav-toggle">
-                <i class="fa-solid fa-bars"></i>
+            <div class="nav-extras" style="display: flex; align-items: center; gap: 1rem;">
+                <!-- Language Switch -->
+                <div class="language-switch">
+                    <input type="checkbox" id="language-toggle" class="language-toggle">
+                    <label for="language-toggle" class="language-label">
+                        <span class="lang-code es">ES</span>
+                        <span class="lang-code en">EN</span>
+                        <span class="toggle-ball"></span>
+                    </label>
+                </div>
+
+                <div class="nav-toggle" id="nav-toggle">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
             </div>
         </div>
     </header>

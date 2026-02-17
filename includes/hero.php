@@ -42,8 +42,10 @@
             </div>
 
             <div class="home-img-wrapper">
-                <div class="blob-bg"></div>
-                <img src="assets/img/images.jpg" alt="Daniel Guevara - Desarrollador Full Stack" class="home-img">
+                <div class="profile-card">
+                    <div class="card-glow"></div>
+                    <img src="assets/img/foto_yo.jpg" alt="Daniel Guevara - Desarrollador Full Stack" class="home-img">
+                </div>
             </div>
         </div>
     </section>

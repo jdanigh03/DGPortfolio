@@ -1,0 +1,15 @@
+.git
+.antigravity
+.antigravityignore
+.gemini
+brain
+tmp
+node_modules
+Dockerfile
+.dockerignore
+composer.lock
+composer.json
+vendor
+tests
+*.md
+LICENSE
